@@ -1,9 +1,8 @@
 # Hi there 👋
 
 ## i'm Jenadius Nicholaus.
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
-</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A Mibile+web +and technology passionate;Second+line+of+text)](https://git.io/typing-svg)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jenadiusnicholaus&theme=highcontrast&show_icons=true&count_private=true) 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jenadiusnicholaus&layout=compact)
