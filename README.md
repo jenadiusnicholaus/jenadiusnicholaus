@@ -1,18 +1,21 @@
 ### Hi there 👋
 
-### I am Jneadius Nicholaus as software developer,
-<!-- **jenadiusnicholaus/jenadiusnicholaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<!-- 
-Here are some ideas to get you started:
+<div class="github-card" data-user="lepture"></div>
+<script src="https://cdn.jsdelivr.net/gh/lepture/github-cards@latest/jsdelivr/widget.js"></script>
 
-- 🔭 I’m currently working on P
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+<!-- ### I am Jneadius Nicholaus as software developer, -->
+<!-- **jenadiusnicholaus/jenadiusnicholaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+My current status
+
+- 🔭 I’m currently working on improving my skills at microverse
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on big projects in Javacrpts, python , flutter 
+- 💬 Ask me about 
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ...
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jenadiusnicholaus&theme=highcontrast&show_icons=true&count_private=true) 
