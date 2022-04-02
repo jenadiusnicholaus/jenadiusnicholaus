@@ -1,12 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<div class="github-card" data-user="lepture"></div>
-<script src="https://cdn.jsdelivr.net/gh/lepture/github-cards@latest/jsdelivr/widget.js"></script>
+## i'm Jenadius Nicholaus.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
+</p>
 
-<!-- ### I am Jneadius Nicholaus as software developer, -->
-<!-- **jenadiusnicholaus/jenadiusnicholaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+![Github stats](https://github-readme-stats.vercel.app/api?username=jenadiusnicholaus&theme=highcontrast&show_icons=true&count_private=true) 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jenadiusnicholaus&layout=compact)
 
-My current status
 
 - 🔭 I’m currently working on improving my skills at microverse
 - 🌱 I’m currently learning 
@@ -18,5 +19,3 @@ My current status
 - ⚡ Fun fact: ...
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=jenadiusnicholaus&theme=highcontrast&show_icons=true&count_private=true) 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jenadiusnicholaus&layout=compact)
