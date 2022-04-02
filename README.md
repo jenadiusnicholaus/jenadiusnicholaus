@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Love+Learning+New+Things;Love+Computer+Tech+As+A+Whole)](https://git.io/typing-svg)
 ## Github stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jenadiusnicholaus&theme=highcontrast&show_icons=true&count_private=true) 
+## Top Languages Card
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jenadiusnicholaus&layout=compact)
 
 
