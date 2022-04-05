@@ -3,12 +3,24 @@
 ## i'm Jenadius Nicholaus.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Love+Learning+New+Things;Love+Computer+Tech+As+A+Whole)](https://git.io/typing-svg)
+
+
 ## Github stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=jenadiusnicholaus&theme=highcontrast&show_icons=true&count_private=true) 
+<div style="display: flex;  flex-direction: row; algn-item: center;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=jenadiusnicholaus&theme=highcontrast&show_icons=true&count_private=true" />
+ <img class="img" src="https://github-readme-ranking.vercel.app/api/rank?username=jenadiusnicholaus&country_code=tanzania&theme=dark" />
+</div>
+
 ## Top Languages Card
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jenadiusnicholaus&theme=radical&layout=compact)
-## 
-[![Muhammadsher's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=jenadiusnicholaus&country_code=tanzania&theme=dark)](https://github.com/Muhammadsher/github-readme-ranking)
+
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenadiusnicholaus&theme=radical&layout=compact" />
+</div>
+
+
+
+
+
+
 
 
 
