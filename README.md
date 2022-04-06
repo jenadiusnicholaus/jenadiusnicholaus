@@ -6,7 +6,7 @@
 
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Jenadius Nicholaus</a> 👋
+Hi there, I'm <a href="https://jenadiusnicholaus.github.io/my-portfolio-site/" target="_blank" rel="noreferrer">Jenadius Nicholaus</a> 👋
 </h3>
 <h2 align="center">
 I'm a Full-Stack Web Developer 💻, Mobile Developer 📸, and Designer 🎨!
@@ -54,7 +54,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 |Top Langs|
 | :--: |
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenadiusnicholaus&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
 
 ##  How to reach me
 
@@ -65,13 +65,6 @@ I love the entire process of developing creative websites. I love the challenge 
 <!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=jenadiusnicholaus)](https://www.yushi.dev/) -->
 
 <!-- 
-
-
-
-
-
-
-
 
 ### 🤝 Connect with me:
 
