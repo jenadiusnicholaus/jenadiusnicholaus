@@ -17,7 +17,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Love+Learning+New+Things;Love+Computer+Tech+As+A+Whole)
 
 
-## 💼 Technical Skills
+## 💼 Technical Skills and Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=dafb61)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&color=07ba05)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&color=61DAFB)
