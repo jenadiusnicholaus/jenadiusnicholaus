@@ -56,6 +56,8 @@ I love the entire process of developing creative websites. I love the challenge 
 | :--: |
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenadiusnicholaus&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
 
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jenadiusnicholaus&theme=vue) -->
+
 ##  How to reach me
 
 |Twitter:| LinkedIn |
