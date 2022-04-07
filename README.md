@@ -47,6 +47,17 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
+
+## 📝 Latest Publication/Blog Posts
+
+- [Object Oriented Programming in Dart](https://intmain.co.tz/publication_details/object-oriented-in-dart)
+- [Best way to containerize and run your Django project in Docker
+](https://intmain.co.tz/publication_details/best-way-to-containerize-and-run-your-django-project-in-docker)
+- [6 useful git commands and tips to improve your workflow.
+](https://intmain.co.tz/publication_details/6-useful-git-commands-and-tips-to-improve-your-workflow)
+- [Automatic Django Code Linting/Testing with GitHub Actions
+](https://intmain.co.tz/publication_details/automatic-django-code-lintingtesting-with-github-actions)
+
 | `Github stats` | ` GitHub active users in Tanzania`|
 | :--: | :--: | 
 |  ![Typing SVG](https://github-readme-stats.vercel.app/api?username=jenadiusnicholaus&theme=highcontrast&show_icons=true&count_private=true) | ![Typing SVG](https://github-readme-ranking.vercel.app/api/rank?username=jenadiusnicholaus&country_code=tanzania&theme=dark) |
