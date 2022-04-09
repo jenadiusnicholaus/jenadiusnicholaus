@@ -63,11 +63,13 @@ I love the entire process of developing creative websites. I love the challenge 
 |  ![Typing SVG](https://github-readme-stats.vercel.app/api?username=jenadiusnicholaus&theme=highcontrast&show_icons=true&count_private=true) | ![Typing SVG](https://github-readme-ranking.vercel.app/api/rank?username=jenadiusnicholaus&country_code=tanzania&theme=dark) |
 
 
-|Top Langs|
-| :--: |
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenadiusnicholaus&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+|Top Langs|Contribution graph|
+| :--: | :--: |
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenadiusnicholaus&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jenadiusnicholaus&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)|
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jenadiusnicholaus&theme=vue) -->
+
+
 
 ##  How to reach me
 
