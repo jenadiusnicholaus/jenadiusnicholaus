@@ -58,6 +58,8 @@ I love the entire process of developing creative websites. I love the challenge 
 - [Automatic Django Code Linting/Testing with GitHub Actions
 ](https://intmain.co.tz/publication_details/automatic-django-code-lintingtesting-with-github-actions)
 
+## Github stats
+
 | Github stats |  GitHub active users in Tanzania|
 | :--: | :--: | 
 |  ![Typing SVG](https://github-readme-stats.vercel.app/api?username=jenadiusnicholaus&theme=highcontrast&show_icons=true&count_private=true) | ![Typing SVG](https://github-readme-ranking.vercel.app/api/rank?username=jenadiusnicholaus&country_code=tanzania&theme=dark) |
