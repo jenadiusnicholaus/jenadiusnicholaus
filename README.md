@@ -75,7 +75,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 |Twitter:| LinkedIn |
 | :--: | :--: | 
-|![Twitter:](https://img.shields.io/twitter/follow/jenadius_kaim?style=social&theme=dark) |  <a href="https://www.linkedin.com/in/jenadius-nicholaus-73126819b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi LinkedIn" width="21px"/></a> |
+|![Twitter:](https://img.shields.io/twitter/follow/jenadius_kaim?style=social&theme=dark) |  <a href="https://www.linkedin.com/in/jenadius-nicholaus-73126819b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> |
 
 <!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=jenadiusnicholaus)](https://www.yushi.dev/) -->
 
