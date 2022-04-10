@@ -73,9 +73,9 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ##  How to reach me
 
-|Twitter:| LinkedIn |
-| :--: | :--: | 
-|![Twitter:](https://img.shields.io/twitter/follow/jenadius_kaim?style=social&theme=dark) |  <a href="https://www.linkedin.com/in/jenadius-nicholaus-73126819b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> |
+|Twitter:| LinkedIn |Email me|
+| :--: | :--: | :--:|
+|![Twitter:](https://img.shields.io/twitter/follow/jenadius_kaim?style=social&theme=dark) |  <a href="https://www.linkedin.com/in/jenadius-nicholaus-73126819b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> | <a href = "mailto: jnichoraus3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>|
 
 <!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=jenadiusnicholaus)](https://www.yushi.dev/) -->
 
