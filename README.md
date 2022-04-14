@@ -62,7 +62,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 | Github stats |  GitHub active users in Tanzania|
 | :--: | :--: | 
-|  ![Typing SVG](https://github-readme-stats.vercel.app/api?username=jenadiusnicholaus&theme=highcontrast&show_icons=true&count_private=true) | ![Typing SVG](https://github-readme-ranking.vercel.app/api/rank?username=jenadiusnicholaus&country_code=tanzania&theme=dark)https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/tanzania.md |
+|  ![Typing SVG](https://github-readme-stats.vercel.app/api?username=jenadiusnicholaus&theme=highcontrast&show_icons=true&count_private=true) | ![Typing SVG](https://github-readme-ranking.vercel.app/api/rank?username=jenadiusnicholaus&country_code=tanzania&theme=dark)|
 
 
 |Top Langs|Contribution graph|
