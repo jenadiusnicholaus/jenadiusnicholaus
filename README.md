@@ -12,8 +12,6 @@ Hi there, I'm <a href="https://jenadiusnicholaus.github.io/my-portfolio-site/" t
 I'm a Full-Stack Web Developer 💻, Mobile Developer 📸, and Designer 🎨!
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look. and most of all I
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Love+Learning+New+Things;Love+Computer+Tech+As+A+Whole)
 
 
