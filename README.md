@@ -60,7 +60,7 @@ I'm a Full-Stack Web Developer 💻, Mobile Developer 📸, and Designer 🎨!
 
 | Github stats |  GitHub active users in Tanzania|
 | :--: | :--: | 
-|  ![Typing SVG](https://github-readme-stats.vercel.app/api?username=jenadiusnicholaus&theme=highcontrast&show_icons=true&count_private=true) | ![Typing SVG](https://github-readme-ranking.vercel.app/api/rank?username=jenadiusnicholaus&country_code=tanzania&theme=dark)|
+|  ![Typing SVG](https://github-readme-stats.vercel.app/api?username=jenadiusnicholaus&theme=highcontrast&show_icons=true&count_private=true) | ![GitHub active users Ranks](https://github-readme-ranking.vercel.app/api/rank?username=jenadiusnicholaus&country_code=tanzania&theme=dark)|
 
 
 |Top Langs|Contribution graph|
