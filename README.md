@@ -58,7 +58,7 @@ I'm a Full-Stack Web Developer 💻, Mobile Developer 📸, and Designer 🎨!
 
 ## Github stats
 
-| Github stats |  GitHub active users in Tanzania|
+| Github stats |  Popularlanguages|
 | :--: | :--: | 
 |  ![Typing SVG](https://github-readme-stats.vercel.app/api?username=jenadiusnicholaus&theme=highcontrast&show_icons=true&count_private=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenadiusnicholaus&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
 
