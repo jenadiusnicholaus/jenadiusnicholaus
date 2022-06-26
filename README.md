@@ -3,6 +3,7 @@
   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
 </p> -->
 
+[![Check out jenadiusnicholaus's profile on stardev.io](https://stardev.io/developers/jenadiusnicholaus/badge/languages/global.svg)](https://stardev.io/developers/jenadiusnicholaus)
 
 
 <h3 align="center">
@@ -168,6 +169,8 @@ There are `1000 users`  in Tanzania. You need at least `1 followers` to be on th
 		</td>
 	</tr>
 </table>
+
+
 
 
 <!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=jenadiusnicholaus)](https://www.yushi.dev/) -->
