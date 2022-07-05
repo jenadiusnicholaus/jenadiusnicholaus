@@ -3,14 +3,10 @@
   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
 </p> -->
 
-
-
 <h3 align="center">
 Hi there, I'm <a href="https://jenadiusnicholaus.github.io/my-portfolio-site/" target="_blank" rel="noreferrer">Jenadius Nicholaus</a> 👋
 </h3>
-<h2 align="center">
-I'm a Full-Stack Web Developer 💻, Mobile Developer 📸, and Designer 🎨!
-</h2> 
+I am an experienced software engineer who constantly seeks out innovative solutions to everyday problems. i am proficient in python + Django for web and mobile app backed, flutter mobile app front end . In my Four-plus years in this industry, I also have honed my analytical thinking and collaboration skills, and I am happy working on my own but also I love to work as a part of a team, I am very good a planning and organizing my work, For example, if I have a range of tasks to work on, I will make sure I perform them within a good standard and will always be done on time. My greatest strength is my analytical skills with which always help me to thrive and increase my capability to analyse and find a better solution for the problem. I can also work to tight deadlines "Never miss a deadline". For example, in my previous job I was once asked to complete a project which was not complete for some reason. My Project Manager asked me to perform some tasks to finalize the project one day before the deadline. Thankfully the work was done on time and with the necessary standard and I am also a very fast learner, very positive, very focused on my work. I know that it becomes more and more helpful to be a part of the diverse range of talented engineers. As far as long-term goals, I would like to become a part of the greatest engineers in the world and grow better and better.
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Love+Learning+New+Things;Love+Computer+Tech+As+A+Whole)
 
