@@ -50,13 +50,16 @@ I am an experienced software engineer who constantly seeks out innovative soluti
 | :--: | :--: | 
 |  ![Typing SVG](https://github-readme-stats.vercel.app/api?username=jenadiusnicholaus&theme=highcontrast&show_icons=true&count_private=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenadiusnicholaus&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
 
+<a  align="center" href="https://stardev.io/developers/jenadiusnicholaus"><img alt="Check out jenadiusnicholaus's profile on stardev.io" src="https://stardev.io/developers/jenadiusnicholaus/badge/languages/global.svg" /></a>
+
+
+
 
 |Contribution Graph|
 | :--: |
 |[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jenadiusnicholaus&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)|
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jenadiusnicholaus&theme=vue) -->
-
 
 
 ##  How to reach me
@@ -157,7 +160,6 @@ There are `1000 users`  in Tanzania. You need at least `1 followers` to be on th
 	</tr>
 </table>
 
-<a  align="center" href="https://stardev.io/developers/jenadiusnicholaus"><img alt="Check out jenadiusnicholaus's profile on stardev.io" src="https://stardev.io/developers/jenadiusnicholaus/badge/languages/global.svg" /></a>
 
 
 
