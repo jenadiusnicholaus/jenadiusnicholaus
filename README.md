@@ -42,15 +42,7 @@ I am an experienced software engineer who constantly seeks out innovative soluti
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 
-## 📝 Latest Publication/Blog Posts
 
-- [Object Oriented Programming in Dart](https://intmain.co.tz/publication_details/object-oriented-in-dart)
-- [Best way to containerize and run your Django project in Docker
-](https://intmain.co.tz/publication_details/best-way-to-containerize-and-run-your-django-project-in-docker)
-- [6 useful git commands and tips to improve your workflow.
-](https://intmain.co.tz/publication_details/6-useful-git-commands-and-tips-to-improve-your-workflow)
-- [Automatic Django Code Linting/Testing with GitHub Actions
-](https://intmain.co.tz/publication_details/automatic-django-code-lintingtesting-with-github-actions)
 
 ## Github stats
 
