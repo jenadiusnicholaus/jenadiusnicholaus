@@ -4,7 +4,7 @@
 </p> -->
 
 <h3 align="center">
-Hi there, I'm <a href="https://jenadiusnicholaus.github.io/my-portfolio-site/" target="_blank" rel="noreferrer">Jenadius Nicholaus</a> 👋
+Hi there, I'm <a href="https://jenadiusnicholaus.github.io/my_portifolio_site/" target="_blank" rel="noreferrer">Jenadius Nicholaus</a> 👋
 </h3>
 I am an experienced software engineer who constantly seeks out innovative solutions to everyday problems. 
 i am proficient in python + Django, Javascripts, react, flutter  and HTML&CSS.
