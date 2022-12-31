@@ -50,7 +50,7 @@ i am proficient in python + Django, Javascripts, react, flutter  and HTML&CSS.
 
 |Contribution Graph|
 | :--: |
-|[![Jenadius's github activity graph](https://activity-graph.herokuapp.com/graph?username=jenadiusnicholaus&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)|
+|[![Jenadius's github activity graph](https://activity-graph.herokuapp.com/graph?username=jenadiusnicholaus&theme=github)]()|
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jenadiusnicholaus&theme=vue) -->
 
