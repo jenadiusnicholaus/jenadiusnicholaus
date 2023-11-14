@@ -52,7 +52,7 @@ i am proficient in python + Django, Javascripts, react, flutter  and HTML&CSS.
 | :--: |
 |[![Jenadius's github activity graph](https://activity-graph.herokuapp.com/graph?username=jenadiusnicholaus&theme=github)](https://github.com/jenadiusnicholaus/jenadiusnicholaus/blob/main/README.md)|
 
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jenadiusnicholaus&theme=vue) -->
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jenadiusnicholaus&theme=vue) 
 
 
 ##  How to reach me
