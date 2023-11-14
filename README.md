@@ -54,7 +54,7 @@ i am proficient in python + Django, Javascripts, react, flutter  and HTML&CSS.
 | :--: | :--: | 
 |  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jenadiusnicholaus&theme=vue) |
 
-<a  align="center" href="https://stardev.io/developers/jenadiusnicholaus"><img alt="Check out jenadiusnicholaus's profile on stardev.io" src="https://stardev.io/developers/jenadiusnicholaus/badge/languages/global.svg" /></a>
+<a  style width="100%" align="center" href="https://stardev.io/developers/jenadiusnicholaus"><img alt="Check out jenadiusnicholaus's profile on stardev.io" src="https://stardev.io/developers/jenadiusnicholaus/badge/languages/global.svg" /></a>
 
 
  
