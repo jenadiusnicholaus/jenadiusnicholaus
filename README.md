@@ -34,6 +34,8 @@ i am proficient in python + Django, Javascripts, react, flutter  and HTML&CSS.
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
+<a  style width="100%" align="center" href="https://stardev.io/developers/jenadiusnicholaus"><img alt="Check out jenadiusnicholaus's profile on stardev.io" src="https://stardev.io/developers/jenadiusnicholaus/badge/languages/global.svg" /></a>
+
 
 
 
@@ -54,7 +56,7 @@ i am proficient in python + Django, Javascripts, react, flutter  and HTML&CSS.
 | :--: | :--: | 
 |  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jenadiusnicholaus&theme=vue) |
 
-<a  style width="100%" align="center" href="https://stardev.io/developers/jenadiusnicholaus"><img alt="Check out jenadiusnicholaus's profile on stardev.io" src="https://stardev.io/developers/jenadiusnicholaus/badge/languages/global.svg" /></a>
+
 
 
  
