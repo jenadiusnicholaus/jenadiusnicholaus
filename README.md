@@ -43,16 +43,21 @@ i am proficient in python + Django, Javascripts, react, flutter  and HTML&CSS.
 | :--: | :--: | 
 |  ![Typing SVG](https://github-readme-stats.vercel.app/api?username=jenadiusnicholaus&theme=highcontrast&show_icons=true&count_private=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenadiusnicholaus&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
 
-<a  align="center" href="https://stardev.io/developers/jenadiusnicholaus"><img alt="Check out jenadiusnicholaus's profile on stardev.io" src="https://stardev.io/developers/jenadiusnicholaus/badge/languages/global.svg" /></a>
 
 
 
 
-|Contribution Graph|
-| :--: |
-|[![Jenadius's github activity graph](https://activity-graph.herokuapp.com/graph?username=jenadiusnicholaus&theme=github)](https://github.com/jenadiusnicholaus/jenadiusnicholaus/blob/main/README.md)|
 
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jenadiusnicholaus&theme=vue) 
+
+
+| Contribution Graph |  Basic Front skils and projects|
+| :--: | :--: | 
+|  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jenadiusnicholaus&theme=vue) |
+
+<a  align="center" href="https://stardev.io/developers/jenadiusnicholaus"><img alt="Check out jenadiusnicholaus's profile on stardev.io" src="https://stardev.io/developers/jenadiusnicholaus/badge/languages/global.svg" /></a>|
+
+
+ 
 
 
 ##  How to reach me
