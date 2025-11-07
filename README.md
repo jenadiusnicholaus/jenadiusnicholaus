@@ -1,14 +1,14 @@
 <!-- Banner -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://jenadiusnicholaus.github.io/my_portifolio_site/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="banner" />
+    <img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="Jenadius Nicholaus Banner" />
   </a>
-</p>
+</p> -->
 
-<h2 align="center">👋 Hi, I'm <a href="https://jenadiusnicholaus.github.io/my_portifolio_site/" target="_blank">Jenadius Nicholaus</a></h2>
+<h1 align="center">👋 Hi, I'm <a href="https://jenadiusnicholaus.github.io/my_portifolio_site/">Jenadius Nicholaus</a></h1>
 
 <p align="center">
-  <em>Software Engineer | Full Stack Developer | IoT & Smart Systems Enthusiast</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;IoT+and+Cloud+Engineer;Software+Consultant;Lifelong+Learner" alt="Typing animation" />
 </p>
 
 ---
