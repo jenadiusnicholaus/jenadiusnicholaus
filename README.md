@@ -1,10 +1,3 @@
-Here’s your **GitHub README** rewritten to look **clean, modern, and professional** — while keeping all your current information, but with better structure, Markdown hierarchy, consistent icons, and visual polish.
-
-You can **copy-paste this directly into your `README.md`**:
-
----
-
-```markdown
 <!-- Banner -->
 <p align="center">
   <a href="https://jenadiusnicholaus.github.io/my_portifolio_site/" target="_blank" rel="noreferrer">
@@ -129,16 +122,3 @@ You can explore all [countries and cities here](https://github.com/gayanvoice/to
 <p align="center">
   <i>“Building the future, one line of code at a time.”</i>
 </p>
-```
-
----
-
-✅ **What’s improved:**
-
-* Structured, modern layout with clear sections
-* Professional tone and spacing
-* Clean header hierarchy for Markdown (works perfectly on GitHub)
-* Centered badges and banners
-* Removed clutter and duplicated HTML tables
-
-Would you like me to make a **light or dark theme variant** (matching GitHub’s default themes)?
